@@ -5,15 +5,15 @@
   "author": "Deno Land Inc.",
   "license": "MIT",
   "version": "3.41.0",
-  "icon": "deno.png",
+    "type": "git",
+    "url": "https://github.com/denoland/vscode_deno"
+  },  "icon": "deno.png",
   "galleryBanner": {
     "color": "#3B3738",
     "theme": "dark"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/denoland/vscode_deno"
-  },
+
   "bugs": {
     "url": "https://github.com/denoland/vscode_deno/issues"
   },
